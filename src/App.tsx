@@ -63,7 +63,7 @@ Email: ${formData.email}
 Повідомлення: ${formData.message || 'Не вказано'}`
 
       // Відправка
-      const response = await fetch('https://formsubmit.co/ajax/troanart@gmail.com', {
+      const response = await fetch('https://formsubmit.co/ajax/6weeks.13h@gmail.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
